@@ -1,0 +1,37 @@
+19-05-2024 : 01:23:44 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:23:45 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:23:48 | INFO | test_login.py:87 : Practice page is open
+19-05-2024 : 01:23:49 | INFO | test_login.py:89 : Clicked on exception label
+19-05-2024 : 01:23:53 | INFO | test_login.py:94 : Entered text get save successfully...!
+19-05-2024 : 01:23:57 | INFO | test_login.py:99 : Entered text get added in list
+19-05-2024 : 01:24:00 | INFO | test_login.py:109 : Added text get removed...!
+19-05-2024 : 01:24:03 | INFO | test_login.py:115 : Added row get removed again
+19-05-2024 : 01:24:06 | INFO | test_login.py:118 : Added row get removed 3rd time
+19-05-2024 : 01:24:16 | INFO | LoginPage.py:19 : Login with username: stuent
+19-05-2024 : 01:24:17 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:22 | ERROR | LoginPage.py:29 : Error: Invalid credentials
+19-05-2024 : 01:24:28 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:28 | INFO | LoginPage.py:23 : Login with username: Password12
+19-05-2024 : 01:24:31 | ERROR | LoginPage.py:29 : Error: Invalid credentials
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+19-05-2024 : 01:24:31 | ERROR | LoginPage.py:29 : Error: Invalid credentials
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:19 : Login with username: student
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
+
+19-05-2024 : 01:24:42 | INFO | LoginPage.py:23 : Login with username: Password123
+19-05-2024 : 01:24:43 | INFO | test_login.py:150 : Login successfully...!!!
